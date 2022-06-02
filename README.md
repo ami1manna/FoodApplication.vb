@@ -9,8 +9,8 @@ Public Class Form2
 <br>
  <br>   Private facon As New FirebaseConfig() With
    <br>            {
- <br>              .AuthSecret = "Sh0fpeLNcJZMbrLKkuvos8BQQVFqpwh0SEikqarx",
-  <br>             .BasePath = "https://vbnet-9d25a-default-rtdb.firebaseio.com/"
+ <br>              .AuthSecret = "data base password :)",
+  <br>             .BasePath = "Your data base link :)"
    <br> }
 
    
